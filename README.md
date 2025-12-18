@@ -1,5 +1,4 @@
 # Sample-group-project-
-Demo project
 Index.html
 <!DOCTYPE html>
 <html>
